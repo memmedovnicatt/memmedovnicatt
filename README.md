@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/nicat-mammadov-52b2a576/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Nicat Mammadov" height="30" width="40" />
   </a>
-  <a href="[https://www.instagram.com/memmedovnicatt/](https://www.instagram.com/memmedovnicatt/)" target="_blank">
+  <a href="[https://www.instagram.com/sabi.aydin" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="memmedovnicatt" height="30" width="40" />
   </a>
 </p>
