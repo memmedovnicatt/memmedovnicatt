@@ -3,7 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicat-mammadov-52b2a576/" target="_blank">
+  <a href="https://www.linkedin.com/in/mammadovnicat/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Nicat Mammadov" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/memmedovnicatt/" target="blank">
