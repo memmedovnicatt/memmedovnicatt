@@ -3,11 +3,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicat-mammadov-52b2a576/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Social/linked-in-alt.svg" alt="Nicat Mammadov" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/nicat-mammadov-52b2a576/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Nicat Mammadov" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/memmedovnicatt/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/Social/instagram.svg" alt="memmedovnicatt" height="30" width="40" />
+  <a href="https://www.instagram.com/memmedovnicatt/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="memmedovnicatt" height="30" width="40" />
   </a>
 </p>
 
